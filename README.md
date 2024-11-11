@@ -1,5 +1,9 @@
+# Bio-Marlin V1.2 (Beta) 💻
+Open Source 3D Bioprinter firmware based on open source project Marline V1.1.9 | modified by Dr.Islam Salama 
+| Linkedin https://www.linkedin.com/in/dr-islam-sa
 
-# Bio-Marlin V1.2 (Beta)
+
+# Bio-Marlin V1.2 (Beta) 💻
 
 ### Overview
 **Bio-Marlin V1.2** is a modified firmware based on **Marlin 1.1.9**, optimized specifically for 3D bioprinting applications. This project redefines certain features of the original firmware, removing nonessential components and introducing functionalities necessary for precise, bio-compatible printing. Bio-Marlin focuses on enabling the handling of unique materials, like hydrogels, by offering advanced control over extruder speed and temperature, thereby supporting the bioprinting community in experimenting with diverse bio-materials and advancing biotechnology research.
